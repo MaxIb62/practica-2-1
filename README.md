@@ -1,4 +1,4 @@
-# Jonathan miranda
+# Fernando Garcia
 
-# sistemas operativos
-- estamos aprendiendo a usar git
+# lenguajes interpretados 
+- estamos aprendiendo a hacer paginas web
