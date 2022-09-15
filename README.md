@@ -1,7 +1,4 @@
-# Maximiliano Ibarra Rojas 
+# Robrto Saco
 
-# lenguajes interpretados 
-- estamos aprendiendo a hacer paginas web
-
-# sistemas operativos
-- estamos aprendiendo a usar git
+# Proyecto semestral 2
+- estamos haciendo un juego y estamos aprendidendo a hacer puertas 
