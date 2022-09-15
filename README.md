@@ -1,7 +1,4 @@
-# Maximiliano Ibarra Rojas 
+# Eduardo Guerrero
 
-# lenguajes interpretados 
-- estamos aprendiendo a hacer paginas web
-
-# sistemas operativos
-- estamos aprendiendo a usar git
+# diseño de videojuegos
+estamos aprendiendo a hacer documentos para presentar una idea de un juego
